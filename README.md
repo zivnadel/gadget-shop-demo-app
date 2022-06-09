@@ -7,7 +7,7 @@ The cart content are stored in the database on any change made to the cart, and 
 Created with creat-react-app.
 
 # Technologies Used
-React.js, Redux, Redux Toolkit, React Hooks, Firebase RT Database, HTTP Requests, CSS Modules, create-react-app and more.
+JavaScript, React.js, Redux, Redux Toolkit, React Hooks, Firebase RT Database, HTTP Requests, CSS Modules, create-react-app and more.
 
 # Running and Usage
 
