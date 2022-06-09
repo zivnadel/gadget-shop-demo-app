@@ -11,8 +11,7 @@ JavaScript, React.js, Redux, Redux Toolkit, React Hooks, Firebase RT Database, H
 
 # Running and Usage
 
-You can simply visit the app in the gh-pages website:
-https://zivnadel.github.io/food-ordering-demo-app/
+You can simply visit the app in the gh-pages [website](https://zivnadel.github.io/gadget-shop-demo-app/).
 
 Or, you can download and install the app, to run it locally:
 
