@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gadget-shop-demo-app/static/css/main.57915da4.chunk.css",
+    "main.css": "/gadget-shop-demo-app/static/css/main.87665e17.chunk.css",
     "main.js": "/gadget-shop-demo-app/static/js/main.e6cf00f4.chunk.js",
     "main.js.map": "/gadget-shop-demo-app/static/js/main.e6cf00f4.chunk.js.map",
     "runtime-main.js": "/gadget-shop-demo-app/static/js/runtime-main.c0119ebe.js",
@@ -8,13 +8,13 @@
     "static/js/2.fa21295b.chunk.js": "/gadget-shop-demo-app/static/js/2.fa21295b.chunk.js",
     "static/js/2.fa21295b.chunk.js.map": "/gadget-shop-demo-app/static/js/2.fa21295b.chunk.js.map",
     "index.html": "/gadget-shop-demo-app/index.html",
-    "static/css/main.57915da4.chunk.css.map": "/gadget-shop-demo-app/static/css/main.57915da4.chunk.css.map",
+    "static/css/main.87665e17.chunk.css.map": "/gadget-shop-demo-app/static/css/main.87665e17.chunk.css.map",
     "static/js/2.fa21295b.chunk.js.LICENSE.txt": "/gadget-shop-demo-app/static/js/2.fa21295b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c0119ebe.js",
     "static/js/2.fa21295b.chunk.js",
-    "static/css/main.57915da4.chunk.css",
+    "static/css/main.87665e17.chunk.css",
     "static/js/main.e6cf00f4.chunk.js"
   ]
 }
