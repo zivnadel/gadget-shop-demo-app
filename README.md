@@ -1,4 +1,4 @@
-# Food Ordering Demo App
+# Gadget Shop Demo App
 
 A simple demo app created while learning the Redux and Redux Toolkit libraries in React.js.
 This app allows the user to manage the cart of a demo "Gadget Shop". The app has cart functionalities such as add and remove items.
