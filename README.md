@@ -17,7 +17,7 @@ Or, you can download and install the app, to run it locally:
 
 ### Install Dependencies
 ```
-cd food-ordering-demo-app
+cd gadget-shop-demo-app
 npm install
 ```
 ### Run
